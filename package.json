@@ -1,0 +1,22 @@
+{
+  "name": "varianttipbot",
+  "version": "1.0.0",
+  "description": "Discord tipping bot for VRNT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stochastic-Adventure/VRNTTippingBot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Stochastic-Adventure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stochastic-Adventure/VRNTTippingBot/issues"
+  },
+  "homepage": "https://github.com/Stochastic-Adventure/VRNTTippingBot#readme"
+}
